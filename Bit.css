@@ -1,0 +1,45 @@
+* {
+  box-sizing:border-box;
+}
+html, body {
+  width:100%;
+  height:100%;
+}
+.blue {
+  color:#0081ff;
+}
+.green {
+  color:darkgreen;
+}
+.det {
+  margin-top:100px;
+  margin-bottom:50px;
+}
+span {
+  font-family: 
+}
+pre {
+  margin-top:20px;
+  color:#677067;
+}
+.red {
+  color:#ff153f;
+}
+.Out {
+  margin-top:70px;
+  margin-bottom:50px;
+  color:black;
+}
+.Outs {
+  margin-top:0px;
+  margin-bottom:0px;
+  color:black;
+}
+.spre {
+  background-color: lightgreen;
+  color:darkgreen;
+  width:60px;
+  border-radius: 5px;
+  text-align: center;
+  padding:8px;
+}
